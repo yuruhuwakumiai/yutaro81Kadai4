@@ -8,7 +8,6 @@
 import UIKit
 
 class ViewController: UIViewController {
-
     private var count: Int = 0
     @IBOutlet weak private var countLabel: UILabel!
     @IBAction private func upButton(_ sender: Any) {
